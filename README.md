@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @godfather1509
 - 👀 I’m interested in ML
 - 🌱 I’m currently learning Web Dev and Python
-- 💞️ I’m looking to collaborate on everything
+- 💞️ I’m looking to collaborate on python and C++
 - 📫 How to reach me ayushg1500@gmail.com
 
 <!---
