@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @godfather1509
 - 👀 I’m interested in ML
 - 🌱 I’m currently learning Java and Javascipt
-- 💞️ I’m looking to collaborate on python and Java
+- 💞️ I’m looking to collaborate on Python and Java
 - 📫 How to reach me ayushg1500@gmail.com
 
 <!---
