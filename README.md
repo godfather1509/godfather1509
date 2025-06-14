@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @godfather1509
+- 👋 Hi, I’m Ayush Gupta
 - 👀 I’m interested in ML
 - 🌱 I’m currently learning DSA in Java
-- 💞️ I’m looking to collaborate on Python and Javascipt
+- 💞️ I’m looking to collaborate on Python, Java and Javascipt
 - 📫 How to reach me ayushg1500@gmail.com
 
 <!---
