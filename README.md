@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayush Gupta
 - 👀 I’m interested in ML
-- 🌱 I’m currently learning DBMS and SQL
+- 🌱 I’m currently learning websockets
 - 💞️ I’m looking to collaborate on Python, Java and Javascipt
 - 📫 How to reach me ayushg1500@gmail.com
 
