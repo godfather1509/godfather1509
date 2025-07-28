@@ -7,7 +7,7 @@
 
 ## ✍️ Quote for the Day:
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 
 ## 📊 GitHub Stats:
 
