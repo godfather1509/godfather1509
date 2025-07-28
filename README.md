@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Python, Java and Javascipt
 - 📫 How to reach me ayushg1500@gmail.com
 
-
+✍️ Quote for the Day:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=godfather1509&theme=tokyonight&show_icons=true)
