@@ -5,11 +5,11 @@
 - 📫 How to reach me ayushg1500@gmail.com
 
 
-✍️ Quote for the Day:
+### ✍️ Quote for the Day:
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-📊 GitHub Stats:
+### 📊 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=godfather1509&theme=tokyonight&show_icons=true)
 
