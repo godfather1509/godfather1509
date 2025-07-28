@@ -13,6 +13,9 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=godfather1509&theme=gotham)
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 <!---
 godfather1509/godfather1509 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
