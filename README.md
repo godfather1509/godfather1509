@@ -5,6 +5,9 @@
 - 📫 How to reach me ayushg1500@gmail.com
 
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godfather1509&layout=compact&theme=gotham)
 
   
@@ -12,9 +15,6 @@
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=godfather1509&theme=gotham)
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 <!---
 godfather1509/godfather1509 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
