@@ -9,6 +9,10 @@
 
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=godfather1509&theme=tokyonight&show_icons=true)
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=godfather1509&theme=gotham)
+
 <!---
 godfather1509/godfather1509 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
