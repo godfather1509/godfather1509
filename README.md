@@ -13,7 +13,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=godfather1509&theme=gotham)
 
 
-## ✍️ Quote for the Day:
+## ✍️ Quote of the Day:
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 <!---
