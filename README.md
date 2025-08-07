@@ -10,9 +10,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godfather1509&layout=compact&theme=gotham)
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=godfather1509&theme=gotham)
-
-
 ## ✍️ Quote of the Day:
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
