@@ -18,6 +18,6 @@ godfather1509/godfather1509 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-![Profile Views](https://komarev.com/ghpvc/?username=godfather1509&label=Profile%20Views&color=blue&style=flat-square)
-
-![Profile Hits](https://komarev.com/ghpvc/?username=godfather1509&label=Hits&color=ff69b4&style=for-the-badge)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=godfather1509&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views"/>
+</p>
