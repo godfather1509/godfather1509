@@ -11,7 +11,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godfather1509&layout=compact&theme=gotham)
   
 ## ✍️ Quote of the Day:
-![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Quote"/>
+</p>
+
 <!---
 godfather1509/godfather1509 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
