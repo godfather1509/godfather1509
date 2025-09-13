@@ -18,10 +18,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p align='center'>
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="footergif" align=center>
-</p>
-
-<p align='center'>
   <img src="https://komarev.com/ghpvc/?username=godfather1509&style=for-the-badge&color=343434"/>
 </p>
 
