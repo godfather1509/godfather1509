@@ -18,6 +18,11 @@ godfather1509/godfather1509 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=godfather1509&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views"/>
+<p align='center'>
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="footergif" align=center>
 </p>
+
+<p align='center'>
+  <img src="https://komarev.com/ghpvc/?username=godfather1509&style=for-the-badge&color=343434"/>
+</p>
+
